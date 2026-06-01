@@ -43,9 +43,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnadeepika74&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadeepika74&layout=compact)
 
 ---
 
@@ -59,9 +59,9 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL@example.com
+- GitHub: https://github.com/krishnadeepika74
+- LinkedIn: https://www.linkedin.com/in/krishna-deepika-24902a2bb?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: krishnadeepika9704@gmail.com
 
 ---
 

@@ -59,7 +59,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/krishnadeepika74
+- GitHub: https://github.com/krishnadeepika74/
 - LinkedIn: https://www.linkedin.com/in/krishna-deepika-24902a2bb?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: krishnadeepika9704@gmail.com
 
